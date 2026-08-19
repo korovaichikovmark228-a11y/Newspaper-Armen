@@ -7,7 +7,7 @@
    ============================================================ */
 
 const APP_PREFIX = 'armen-times-';
-const VERSION = 'v1';
+const VERSION = 'v2';
 const SHELL_CACHE = `${APP_PREFIX}shell-${VERSION}`;
 const DATA_CACHE  = `${APP_PREFIX}data-${VERSION}`;
 
